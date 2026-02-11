@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-hcl2
+chromadb
+google-generativeai
+python-dotenv
+PyGithub
+tiktoken
